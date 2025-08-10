@@ -61,7 +61,7 @@ Luci app parexp automatically obtains formatted partition expansion and automati
 
 ## describe
 
-- luci-app-netspeedtest：https://github.com/sirpdboy/luci-app-partexp
+- luci-app-partexp：https://github.com/sirpdboy/luci-app-partexp
 
 ![screenshots](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/说明2.jpg)
 
